@@ -1,6 +1,8 @@
 # 30 Days of Yoga App 
 - Demonstration
   - UI using Jetpack Compose
+  - Material Design Guidelines
+  - Top App Bar
   - LazyColumn
   - fade-in/out animation
   - content Animation using spring
